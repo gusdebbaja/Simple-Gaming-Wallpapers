@@ -12,13 +12,38 @@
     },
     {
       "name": "Watch Dogs",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
+      "preview_url": "https://imgur.com/S4R73N4.png",
+      "preview_thumbnail_url": "https://imgur.com/S4R73N4.png"
+    },
+    {
+        "name": "Zelda",
+      "preview_url": "https://i.imgur.com/OUXeqaP.png",
+      "preview_thumbnail_url": "https://i.imgur.com/OUXeqaP.png"
+    },
+    {
+      "name": "Max Payne",
+      "preview_url": "https://i.imgur.com/AkDCtkP.png",
+      "preview_thumbnail_url": "https://i.imgur.com/AkDCtkP.png"
+    },
+    {
+      "name": "Space Invader",
+      "preview_url": "https://imgur.com/mM9yt0I.png",
+      "preview_thumbnail_url": "https://imgur.com/mM9yt0I.png"
+    },
+    {
+      "name": "Sonic",
+      "preview_url": "https://imgur.com/bVZ9iLF.png",
+      "preview_thumbnail_url": "https://imgur.com/bVZ9iLF.png"
+    },
+    {
+      "name": "Batman",
+      "preview_url": "https://imgur.com/flFftSe.png",
+      "preview_thumbnail_url": "https://imgur.com/flFftSe.png"
     },
     {
       "name": "Others",
-      "preview_url": "https://i.imgur.com/EYg1FiL.jpg",
-      "preview_thumbnail_url": "https://i.imgur.com/EYg1FiL.jpg"
+      "preview_url": "https://i.imgur.com/VTjvpJn.png",
+      "preview_thumbnail_url": "https://i.imgur.com/VTjvpJn.png"
     }
   ],
   "Wallpapers": [
@@ -61,6 +86,244 @@
       "url": "https://i.imgur.com/EYg1FiL.jpg",
       "thumbnail": "https://i.imgur.com/EYg1FiL.jpg",
       "dimensions": "6005x3282",
+      "copyright": "CC0",
+      "collections": "Others"
+    }
+  ,
+    {
+      "name": "Zelda BotW",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/OUXeqaP.png",
+      "thumbnail": "https://i.imgur.com/OUXeqaP.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Zelda"
+    }
+  ,
+    {
+      "name": "Space Invader",
+      "author": "Jamel Debbiche",
+      "url": "https://imgur.com/mM9yt0I.png",
+      "thumbnail": "https://imgur.com/mM9yt0I.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Space Invader"
+    }
+  ,
+    {
+      "name": "Sonic 3D",
+      "author": "Jamel Debbiche",
+      "url": "https://imgur.com/9pZK2ez.png",
+      "thumbnail": "https://imgur.com/9pZK2ez.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Sonic"
+    }
+  ,
+    {
+      "name": "Zelda BotW",
+      "author": "Jamel Debbiche",
+      "url": "https://imgur.com/fAnWZSZ.png",
+      "thumbnail": "https://imgur.com/fAnWZSZ.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Zelda"
+    }
+  ,
+    {
+      "name": "Sonic 8-Bit",
+      "author": "Jamel Debbiche",
+      "url": "https://imgur.com/bVZ9iLF.png",
+      "thumbnail": "https://imgur.com/bVZ9iLF.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Sonic"
+    }
+  ,
+    {
+      "name": "Super Mario",
+      "author": "Jamel Debbiche",
+      "url": "https://imgur.com/oTNszTi.png",
+      "thumbnail": "https://imgur.com/oTNszTi.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Super Mario"
+    }
+  ,
+    {
+      "name": "SEGA",
+      "author": "Jamel Debbiche",
+      "url": "https://imgur.com/2oEShIU.png",
+      "thumbnail": "https://imgur.com/2oEShIU.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Others"
+    }
+  ,
+    {
+      "name": "Batman",
+      "author": "Jamel Debbiche",
+      "url": "https://imgur.com/flFftSe.png",
+      "thumbnail": "https://imgur.com/flFftSe.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Batman"
+    }
+  ,
+    {
+      "name": "Watch Dogs",
+      "author": "Jamel Debbiche",
+      "url": "https://imgur.com/S4R73N4.png",
+      "thumbnail": "https://imgur.com/S4R73N4.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Watch Dogs"
+    }
+  ,
+    {
+      "name": "Zelda Shield",
+      "author": "Jamel Debbiche",
+      "url": "https://imgur.com/qkCxWCn.png",
+      "thumbnail": "https://imgur.com/qkCxWCn.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Zelda"
+    }
+  ,
+    {
+      "name": "Nintendo Gaming Controller",
+      "author": "Jamel Debbiche",
+      "url": "https://imgur.com/lbbfTfK.png",
+      "thumbnail": "https://imgur.com/lbbfTfK.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Others"
+    }
+  ,
+    {
+      "name": "Space Invader Patterns",
+      "author": "Jamel Debbiche",
+      "url": "https://imgur.com/id2uo2T.png",
+      "thumbnail": "https://imgur.com/id2uo2T.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Space Invader"
+    }
+  ,
+    {
+      "name": "Zelda 4 Hearts",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/E6ePXlf.png",
+      "thumbnail": "https://i.imgur.com/E6ePXlf.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Zelda"
+    }
+  ,
+    {
+      "name": "Zelda Shield",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/OvK4NRv.png",
+      "thumbnail": "https://i.imgur.com/OvK4NRv.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Zelda"
+    }
+  ,
+    {
+      "name": "Zelda Shield",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/bkZNgig.png",
+      "thumbnail": "https://i.imgur.com/bkZNgig.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Zelda"
+    }
+  ,
+    {
+      "name": "Max Payne",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/r3SgJIp.png",
+      "thumbnail": "https://i.imgur.com/r3SgJIp.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Max Payne"
+    }
+  ,
+    {
+      "name": "Nintendo Gaming Controller",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/Pgx2Bzk.png",
+      "thumbnail": "https://i.imgur.com/Pgx2Bzk.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Others"
+    }
+  ,
+    {
+      "name": "Nintendo Gaming Controller",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/oNohFRm.png",
+      "thumbnail": "https://i.imgur.com/oNohFRm.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Others"
+    }
+  ,
+    {
+      "name": "Zelda Pearl",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/uQtevaM.png",
+      "thumbnail": "https://i.imgur.com/uQtevaM.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Zelda"
+    }
+  ,
+    {
+      "name": "Max Payne",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/AkDCtkP.png",
+      "thumbnail": "https://i.imgur.com/AkDCtkP.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Max Payne"
+    }
+  ,
+    {
+      "name": "The Witcher",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/qnKBfNS.png",
+      "thumbnail": "https://i.imgur.com/qnKBfNS.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "The Witcher"
+    },
+    {
+      "name": "Sonic 8-Bit Shadow",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/RLgoeQf.png",
+      "thumbnail": "https://i.imgur.com/RLgoeQf.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Sonic"
+    },
+    {
+      "name": "Zelda Shield",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/XkSroCv.png",
+      "thumbnail": "https://i.imgur.com/XkSroCv.png",
+      "dimensions": "4000x4000",
+      "copyright": "CC0",
+      "collections": "Zelda"
+    }
+  ,
+    {
+      "name": "Quote - Passion",
+      "author": "Jamel Debbiche",
+      "url": "https://i.imgur.com/VTjvpJn.png",
+      "thumbnail": "https://i.imgur.com/VTjvpJn.png",
+      "dimensions": "4000x4000",
       "copyright": "CC0",
       "collections": "Others"
     }
