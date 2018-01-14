@@ -21,13 +21,11 @@
     </string-array>
 
     <string-array name="credits_titles">
-        <item>Your Name</item>
-        <item>Another Name</item>
+        <item>Jamel Debbiche</item>
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>Details of first credited person</item>
-        <item>Details of another credited person</item>
+        <item>Creator of the Simple Gaming Wallpapers</item>
     </string-array>
 
     <string-array name="credits_buttons">
@@ -37,6 +35,6 @@
 
     <string-array name="credits_links">
         <item>https://www.google.com/+JahirFiquitivaR|http://instagram.com/jahirfiquitiva</item>
-        <item>https://facebook.com/|https://www.jahirfiquitiva.me/|https://twitter.com/jahirfiquitiva</item>
+        <item>https://www.instagram.com/simplegamingwallpapers/</item>
     </string-array>
 </resources>

@@ -53,15 +53,7 @@
       "url": "https://i.imgur.com/U28TA2s.png",
       "dimensions": "4000x4000",
       "collections": "Super Mario",
-      "downloadable": false
-    },
-    {
-      "name": "The Witcher",
-      "author": "Jamel Debbiche",
-      "url": "https://i.imgur.com/N2rnVqO.png",
-      "dimensions": "4000x4000",
-      "collections": "The Witcher",
-      "downloadable": false
+      "downloadable": true
     },
     {
       "author": "The Witcher",
