@@ -17,4 +17,4 @@ package com.android.simplegamingwallpapers
 
 import jahirfiquitiva.libs.frames.data.services.FramesArtSource
 
-class MuzeiService : FramesArtSource("MyMuzeiService")
+class MuzeiService : FramesArtSource("SimpleGamingWallpapers")
